@@ -3,5 +3,5 @@
 
 
 ***
-### Code & Dataset will be released right after being accepted!
+### Code & Dataset will be released soon!
 ***
