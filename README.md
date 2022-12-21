@@ -3,5 +3,5 @@
 
 
 ***
-### Code & Dataset will be released soon!
+### This repository has been migrated to [Struct-MDC](https://github.com/url-kaist/Struct-MDC)
 ***
